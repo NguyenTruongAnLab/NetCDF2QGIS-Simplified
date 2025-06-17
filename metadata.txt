@@ -8,7 +8,7 @@ qgisMinimumVersion=3.24
 description=Import and display NetCDF files - General purpose version with enhanced clipping, fixed georeferencing, and disabled auto-detect CRS
 version=2.1.1
 author=Nguyen Truong An (Simplified version)/NOVELTIS (original)
-email=contact@noveltis.fr
+email=truongan.hcmut@gmail.com
 
 about=This simplified plugin reads, imports and displays NetCDF files in QGIS. It focuses on core functionality: loading NetCDF files, selecting appropriate CRS for any global region, and clipping outliers. Features enhanced clipping dialog with detailed statistics and percentile options, plus fixed georeferencing to ensure layers appear in correct locations for any CRS. Default CRS is WGS84 (EPSG:4326) and auto-detect CRS is disabled to prevent incorrect CRS selection.
 
