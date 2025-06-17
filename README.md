@@ -63,6 +63,19 @@ If you encounter issues with Python dependencies, the plugin will attempt to aut
 pip install netCDF4==1.5.5.1 numpy
 ```
 
+## Contributing
+Feel free to submit issues and pull requests to improve this plugin.
+
 ## License
-This plugin maintains the same license as the original NetCDF2QGIS plugin.
+MIT License - see [LICENSE](LICENSE) file for details.
+
+This simplified version is based on the original NetCDF2QGIS plugin from Copernicus Marine.
+
+## Changelog
+See [CHANGELOG.md](CHANGELOG.md) for version history and updates.
+
+## Support
+- Report issues: [GitHub Issues](https://github.com/NguyenTruongAnLab/NetCDF2QGIS-Simplified/issues)
+- Documentation: This README file
+- Original plugin reference: [Copernicus Marine NetCDF2QGIS](https://help.marine.copernicus.eu/en/articles/7979674-how-to-download-and-use-the-netcdf2qgis-plugin-on-qgis)
 
