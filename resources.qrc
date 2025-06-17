@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/import_netcdf" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
